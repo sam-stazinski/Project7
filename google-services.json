@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1652572709",
+    "project_id": "homework7samstazinski",
+    "storage_bucket": "homework7samstazinski.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1652572709:android:923e43fe861d070b1c75cc",
+        "android_client_info": {
+          "package_name": "com.example.project7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHjZMhh35iioi2OxC-HwHYty2qCiHtODQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
