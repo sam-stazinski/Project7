@@ -26,6 +26,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
+![7](https://github.com/sam-stazinski/Project7/assets/62117671/22c3d9c6-3695-410f-820a-8da57dc5c671)
 
 Made by LiceCap
 
